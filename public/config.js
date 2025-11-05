@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "quantumjump",
   "VITE_ORDERLY_BROKER_NAME": "QuantumJump",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/QuantumJumpDEX",
   "VITE_SEO_SITE_NAME": "QuantumJump",
   "VITE_SEO_SITE_DESCRIPTION": "QuantumJump redefines decentralized trading — faster, smarter, and fully transparent. Step into the future of DeFi.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/quantumjump-2973/",
+  "VITE_SEO_SITE_URL": "https://quantumjump.trade",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@QuantumJumpDEX",
